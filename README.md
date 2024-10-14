@@ -1,9 +1,6 @@
-- 🌸 Hi, I’m @proton-tea
-- ⭐️ I’m interested in making cool stuff
+- 🌊 Hi, I’m @proton-tea
 - 🌱 I’m currently trying to learn Python
-- 🌊 #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@proton-tea/30-nites-of-code)  
-  ![@proton-tea #30NitesOfCode](https://www.codedex.io/api/petStatus?user=proton-tea)
+- ⭐️ I’m interested in making cool stuff
 
 <!---
 proton-tea/proton-tea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
