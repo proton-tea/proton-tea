@@ -1,6 +1,6 @@
-🌊 @proton-tea
-🌱 trying to learn Python
-⭐️ interested in making cool stuff
+- 🌊 @proton-tea
+- 🌱 trying to learn Python
+- ⭐️ interested in making cool stuff
 
 <!---
 proton-tea/proton-tea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
